@@ -245,7 +245,7 @@
  	 	},
  	 	"print": {
  	 	 	"name": {
- 	 	 	 	"trans": "印刷等级",
+ 	 	 	 	"trans": "打印等级",
  	 	 	 	"eng": "printing rank"
  	 	 	}
  	 	},
@@ -363,7 +363,7 @@
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[探索]\r\n        通过乘坐高速电磁环路列车, 你可以轻易的以超音速横跨整块大陆。",
+ 	 	 	 	"trans": "[探索]\r\n        通过乘坐高速电磁环路列车, 你可以轻易地以超音速横跨整块大陆。",
  	 	 	 	"eng": "[Adventure]\r\n        Using the hyperloop, you can travel at supersonic speed across the continent with ease."
  	 	 	}
  	 	},
@@ -483,7 +483,7 @@
  	 	 	 	"eng": "work in printing factory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "在不消耗装备碎片的情况下练习你的分子合成技巧, 这将帮助你提高你的印刷等级。",
+ 	 	 	 	"trans": "在不消耗装备碎片的情况下练习你的分子合成技巧, 这将帮助你提高你的打印等级。",
  	 	 	 	"eng": "Improve Printing Rank without sacrificing tech scrap, this may help to increase the level of your prints."
  	 	 	}
  	 	},
@@ -493,7 +493,7 @@
  	 	 	 	"eng": "Hack a Body Mod Clinic"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "窃取并下载诊所资料库里的珍贵信息, 这可以提升你的医学研究等级, 允许您制造更高质量的医疗机器人。",
+ 	 	 	 	"trans": "从当前诊所窃取有用的信息, 这可以提升你的医学研究等级, 允许你制造更高质量的医疗机器人和无人机。",
  	 	 	 	"eng": "Download useful data from a local body mod clinic to craft higher quality medical bots and drones."
  	 	 	}
  	 	},
